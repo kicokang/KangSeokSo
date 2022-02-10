@@ -1,7 +1,7 @@
 # Portfolio By Kang Seok So
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=텍스트&fontSize=폰트크기)
 
 ## 역할을 다하고 배움을 더하는 개발자
+![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=텍스트&fontSize=폰트크기)
 
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 
