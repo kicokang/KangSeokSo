@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kicokang@repo=KolongMall)](https://github.com/kicokang/Spring_Project_KolongMall) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kicokang@repo=Spring_Project_KolongMall)](https://github.com/kicokang/Spring_Project_KolongMall) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=jsp_teamproject)](https://github.com/qkr03210/jsp_teamproject)  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=C_Sharp_project)](https://github.com/qkr03210/C_Sharp_project) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=Python_hwp)](https://github.com/qkr03210/Python_hwp)
