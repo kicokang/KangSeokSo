@@ -11,8 +11,9 @@
 
 ### :floppy_disk: Repositories
 </div>
-[![Spring_Project_KolongMall - GitHub](https://gh-card.dev/repos/Spring_Project_KolongMall.svg)](https://github.com/Spring_Project_KolongMall)
 <p align="center">
+ 
+ <a href="https://github.com/"><img src="https://gh-card.dev/repos/.svg"></a>
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kicokang@repo=Spring_Project_KolongMall)](https://github.com/kicokang/Spring_Project_KolongMall) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=jsp_teamproject)](https://github.com/qkr03210/jsp_teamproject)  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=C_Sharp_project)](https://github.com/qkr03210/C_Sharp_project) 
