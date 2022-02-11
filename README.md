@@ -40,18 +40,18 @@
 
 ## Tech
 
-저의 기술이력
-
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+- [c] - 랜덤함수 활용하여 로또프로그램 작성 및 조건 추가 가능
+- [c#] - 주어진 상황에 맞게 조건문 및 반복문 작성 가능, 화면간 데이터 이동과 CRUD 구현 가능
+DB 활용하여 자료 입출력 및 조회 가능한 주차관리 프로그램 작성 가능
+- [java-spring] - Markdown parser done right. Fast and easy to extend.
+- [javascript] - great UI boilerplate for modern web apps
+- [jQuery] - evented I/O for the backend
+- [Express] - fast node.js network app framework to Markdown converter] - the streaming build system
+- [React] - duh
+- [html] - duh
+- [css3] - duh
+- [mysql] - duh
+- [oracle] - duh
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
