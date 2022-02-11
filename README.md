@@ -31,31 +31,16 @@
 </div>
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- ROTC 장교 생활을 통한 조직 친화적 사고, 소통능력
+- 중형교회 교육부서 부장을 맡은 책임감과 헌신 보유
+- 개발에 열정이 있어 8개월간의 개발교육과정 이수 완료
+- 정보처리기사 필기 합격의 개발 전반의 배경지식 보유
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+> 참 바른 인재가 되겠습니다.
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+저의 기술이력
 
 - [AngularJS] - HTML enhanced for web apps!
 - [Ace Editor] - awesome web-based text editor
